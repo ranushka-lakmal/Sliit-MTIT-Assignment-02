@@ -15,25 +15,19 @@ Firefox Web Browser
  
 Step 1 
  
-	First of all we create a Dynamic Web Project called “StudentManagementSOAPService” in Eclipse. 
-	New > Dynamic Web Project >project_name “StudentManagementSOAPService” > Dynamic web module version as select 2.4 > select Axis web service > Finish
+	First of all we create a Dynamic Web Project called “StudentManagementSOAPService” in Eclipse. 
+	New > Dynamic Web Project >project_name “StudentManagementSOAPService” > Dynamic web module version as select 2.4 > select Axis web service > Finish
 
  
- 
- 
-  
+ ![Bla Bla](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/1.png)
+
+
+• Then Implement the Student class and other related class.
 
 
 
-•	Then Implement the Student class and other related class.
-
-
-
-	Student Class 
+Student Class 
 Right click on the project > New > Class > Give the name as “Student” > Finish
-
- 
- 
  
  
  
@@ -74,7 +68,7 @@ Right click on the Project > New > Other > Web Service > Service implementation 
  
 
 
- Test the services and see the output. 
+Test the services and see the output. 
 Right click on project > Run As > Run On Service > 
  
 
