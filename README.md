@@ -295,6 +295,6 @@ Test the services and see the output.
 
 
 ![](https://twemoji.maxcdn.com/36x36/26c5.png)
-&copy; Ranushka Lakmal  
+&copy; Ranushka Lakmal https://twemoji.maxcdn.com/36x36/1f525.png https://twemoji.maxcdn.com/36x36/1f3c1.png  
 
 	 
