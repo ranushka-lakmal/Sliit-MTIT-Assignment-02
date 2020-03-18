@@ -32,26 +32,26 @@ First of all we create a Dynamic Web Project called “StudentManagementSOAPServ
 Student Class 	
 	
 	Right click on the project > New > Class > Give the name as “Student” > Finish
+   
+   ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/4.PNG) 
  
  
  
 StudentServiceImple Implementation Class 
 
-Right click on the project > New > Class > Give the name as “Student” > Finish
+	Right click on the project > New > Class > Give the name as “Student” > Finish
 
-  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/4.PNG) 
-
-
+  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/5.PNG) 
 
 
  
 Step 2 
 
-	Create a Web Service application. 
+Create a Web Service application. 
 
-Right click on the Project > New > Other > Web Service > Service implementation > Browse the StudentServiceImpl > Go to the configuration > Select Server Runtime > Select Apache Axis2 > Ok > Click Publish web service > Start Server > Finish 
+	Right click on the Project > New > Other > Web Service > Service implementation > Browse the StudentServiceImpl > Go to the configuration > Select Server Runtime > Select Apache Axis2 > Ok > Click Publish web service > Start Server > Finish 
 
- 
+  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
 
  
 
