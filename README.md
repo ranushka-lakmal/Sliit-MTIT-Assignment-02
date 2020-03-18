@@ -151,8 +151,9 @@ username as admin
 password also as admin. 
 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/20-stating_WSO2.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/21-signin.PNG.PNG)
  
+
 
 	Click Add > Proxy Service then select WSDL Based Proxy.
 	
@@ -188,45 +189,26 @@ After that, click and open the service.
 	Then input the values for request field and send for response. (getAllStudents)
 	
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/29.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/111.PNG)
 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/30.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/222.PNG)
 
 
 
 Then input the values for request field and send for response. (insertStudents)
 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/333.PNG)
  
  
 Input the values for request field and send for response. (searchByID)
 
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/444.PNG)
 
 
  Input the values for request field and send for response. (deleteByID)
 
- 
+ ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/555.PNG)
 
   
 
