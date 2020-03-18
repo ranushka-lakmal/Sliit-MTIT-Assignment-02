@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-:tw-270f: 
+
 # Sliit-MTIT-Assignment-02 
 
 ```sh
@@ -292,5 +292,7 @@ Test the services and see the output.
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/555.PNG)
 
   
+:tw-26c5:  
+&copy; Ranushka Lakmal  
 
 	 
