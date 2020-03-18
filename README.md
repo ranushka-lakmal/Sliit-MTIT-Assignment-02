@@ -292,7 +292,9 @@ Test the services and see the output.
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/555.PNG)
 
   
-:tw-26c5:  
+
+
+![](https://twemoji.maxcdn.com/36x36/26c5.png)
 &copy; Ranushka Lakmal  
 
 	 
