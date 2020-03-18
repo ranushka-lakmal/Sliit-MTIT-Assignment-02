@@ -112,82 +112,77 @@ Then open SOAP UI and create a project by using above URL.
 
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/15.PNG) 
 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/16.PNG)
 
 After that send a request and get response. 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/16.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/17.PNG) 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/18.PNG) 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/19.PNG) 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/20.PNG) 
 
 
 
 In this step, we find to wsdl location using soapUI.
  
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/21.PNG) 
+
  
  
+Then open WSO2 ESB folder and go to the bin. 
+
+Then select wso2sever.bat file and run it. 
  
-	Then open WSO2 ESB folder and go to the bin. 
  
-	Then select wso2sever.bat file and run it. 
- 
- 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/22.PNG) 
  
   
- 
+Then copy the URL which shows on cmd and go for that by using a browser. 
 
-
-
-
-
-
-
-	Then copy the URL which shows on cmd and go for that by using a browser. 
-
+ ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/23.PNG)
  
   
 After that the WSO2 home is displayed, then log in by using,
 
-	username as admin
-	password also as admin. 
+username as admin
+password also as admin. 
 
 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/24.PNG)
  
 
-
-
-	Click Add > Proxy Service then select WSDL Based Proxy.
+	Click Add > Proxy Service then select WSDL Based Proxy.
 
  
+Then Add to wsdl file on wso2 ESB. We use in here wso2esb-4.9.0 version.
 
-	Then Add to wsdl file on wso2 ESB. We use in here wso2esb-4.9.0 version.
+	Select on wso2esb-4.9.0 File > repository > samples > resources > proxy > Paste StudentServiceImple.wsdl file
 
-Select on wso2esb-4.9.0 File > repository > samples > resources > proxy > Paste StudentServiceImple.wsdl file
-
- 
-
-
-
-
-
-	Then fill relevant fields and click Create to create the WSDL Based Proxy.
- 
-
-	WSDL Service and WSDL Port Can be finding on our WSDL url
- 
-
-	Then we can see the created service in the list. 
-
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/25.PNG)
 
  
+Then fill relevant fields and click Create to create the WSDL Based Proxy.
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/26.PNG) 
 
-	After that, click and open the service.
-
-
-Then input the values for request field and send for response. (getAllStudents)
- 
- 
-
- 
+WSDL Service and WSDL Port Can be finding on our WSDL url
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/27.PNG)
 
 
+Then we can see the created service in the list. 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/28.PNG)
+
+
+After that, click and open the service.
+		
+	Then input the values for request field and send for response. (getAllStudents)
+	
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/29.PNG)
+
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/30.PNG)
 
 
 
