@@ -137,7 +137,7 @@ In this step, we find to wsdl location using soapUI.
 	Then select wso2sever.bat file and run it. 
  
  
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/22.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/TT.PNG) 
  
   
 Then copy the URL which shows on cmd and go for that by using a browser. 
