@@ -118,23 +118,23 @@ After that send a request and get response.
 
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/17.PNG) 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/18.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/18-insert(1).PNG) 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/19.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/18-result(2).PNG) 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/20.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/19-findbyid.PNG) 
 
 
 
 In this step, we find to wsdl location using soapUI.
  
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/21.PNG) 
-
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/soapui.PNG)  
  
  
-Then open WSO2 ESB folder and go to the bin. 
-
-Then select wso2sever.bat file and run it. 
+ 
+	Then open WSO2 ESB folder and go to the bin. 
+	
+	Then select wso2sever.bat file and run it. 
  
  
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/22.PNG) 
