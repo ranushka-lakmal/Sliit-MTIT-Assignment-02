@@ -19,15 +19,17 @@ Step 1
 	New > Dynamic Web Project >project_name “StudentManagementSOAPService” > Dynamic web module version as select 2.4 > select Axis web service > Finish
 
  
- ![Bla Bla](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/1.png)
+ ![Dynamic Web Project](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/1.png)
 
-
+ ![project_name "StudentManagementSOAPService"](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/2.PNG)
+ 
 • Then Implement the Student class and other related class.
 
 
 
-Student Class 
-Right click on the project > New > Class > Give the name as “Student” > Finish
+Student Class 	
+	
+	Right click on the project > New > Class > Give the name as “Student” > Finish
  
  
  
