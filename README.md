@@ -142,7 +142,7 @@ In this step, we find to wsdl location using soapUI.
   
 Then copy the URL which shows on cmd and go for that by using a browser. 
 
- ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/23.PNG)
+ ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/20-stating_WSO2.PNG)
  
   
 After that the WSO2 home is displayed, then log in by using,
@@ -151,34 +151,43 @@ username as admin
 password also as admin. 
 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/24.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/20-stating_WSO2.PNG)
  
 
 	Click Add > Proxy Service then select WSDL Based Proxy.
+	
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/22-select-wsdl.PNG)
+
 
  
 Then Add to wsdl file on wso2 ESB. We use in here wso2esb-4.9.0 version.
 
 	Select on wso2esb-4.9.0 File > repository > samples > resources > proxy > Paste StudentServiceImple.wsdl file
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/25.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/Capture.PNG)
+
 
  
 Then fill relevant fields and click Create to create the WSDL Based Proxy.
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/26.PNG) 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/23.PNG)
+
 
 WSDL Service and WSDL Port Can be finding on our WSDL url
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/27.PNG)
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/oop.PNG)
 
 
 Then we can see the created service in the list. 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/28.PNG)
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/zz.PNG)
 
 
 After that, click and open the service.
 		
 	Then input the values for request field and send for response. (getAllStudents)
 	
+
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/29.PNG)
 
 
