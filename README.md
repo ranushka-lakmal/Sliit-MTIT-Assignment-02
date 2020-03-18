@@ -80,28 +80,27 @@ Test the services and see the output.
 
 	Right click on project > Run As > Run On Service > 
 	 
-	![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/13.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/new/111.PNG)
 
 
 ▪	getAllStudent function.
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/new/222.PNG)
  
 ▪	searchById function.
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/new/333_search_by_id.PNG)
  
 ▪	insertStudent Function
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/new/444_insert_Student.PNG)
   
 ▪	deleteById Function
- 
-	WSDL file is generated in the web service project as below 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/new/555_delete_by_id.PNG)
 
  
  
- 
+ WSDL file is generated in the web service project as below 
 
- 
- 
- 
- 
- 
+  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/13.PNG)
+  
 Step 3 
  
 	In this step, we find to wsdl file location .
