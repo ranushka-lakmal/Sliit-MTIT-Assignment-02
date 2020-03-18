@@ -1,6 +1,8 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 # Sliit-MTIT-Assignment-02
 
@@ -58,10 +60,10 @@ Create a Web Service application.
 
 	Right click on the Project > New > Other > Web Service > Service implementation > Browse the StudentServiceImpl > Go to the configuration > Select Server Runtime > Select Apache Axis2 > Ok > Click Publish web service > Start Server > Finish 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
+|	![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
 
 
-![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/7.PNG)
+| ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/7.PNG)
 
 
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/8.PNG)
