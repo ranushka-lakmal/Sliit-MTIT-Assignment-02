@@ -103,7 +103,23 @@ Test the services and see the output.
   
 Step 3 
  
-	In this step, we find to wsdl file location .
+In this step, we find to wsdl file location .
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/14.PNG) 
+ 
+
+Then open SOAP UI and create a project by using above URL. 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/15.PNG) 
+
+
+After that send a request and get response. 
+
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/16.PNG) 
+
+
+
+In this step, we find to wsdl location using soapUI.
  
  
  
@@ -149,109 +165,65 @@ Select on wso2esb-4.9.0 File > repository > samples > resources > proxy > Paste 
 
 
 
+
+
 	Then fill relevant fields and click Create to create the WSDL Based Proxy.
  
+
+	WSDL Service and WSDL Port Can be finding on our WSDL url
+ 
+
 	Then we can see the created service in the list. 
 
 
  
 
-	After that, click and open the service. 
- 
+	After that, click and open the service.
 
 
 Then input the values for request field and send for response. (getAllStudents)
  
-
+ 
 
  
+
+
+
+
 
 Then input the values for request field and send for response. (insertStudents)
 
  
  
-Then input the values for request field and send for response. (searchByID)
+Input the values for request field and send for response. (searchByID)
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Input the values for request field and send for response. (deleteByID)
+
+ 
 
   
-
- 
- 
- 
-SOAP UI activity 
- 
-	Copy the WSDL File URL of service .
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-	Then open SOAP UI and create a project by using above URL. 
-
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-	After that send a request and get response. 
-
-
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	 
