@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-# :tw-270f: Sliit-MTIT-Assignment-02 
+# Sliit-MTIT-Assignment-02 :tw-270f: 
 
 ```sh
 
