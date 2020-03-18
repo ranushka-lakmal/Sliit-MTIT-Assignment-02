@@ -39,7 +39,7 @@ Student Class
  
 StudentServiceImple Implementation Class 
 
-	Right click on the project > New > Class > Give the name as “Student” > Finish
+	Right click on the project > New > Class > Give the name as “StudentServiceImple” > Finish
 
   ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/5.PNG) 
 
@@ -53,23 +53,13 @@ Create a Web Service application.
 
   ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
 
- 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/7.PNG)
 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/8.PNG)
 
-
- 
-
- 
-
-
- 
-
- 
-
- 
-
-
- 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/9.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/10.PNG)
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/11.PNG)
 
 
 Test the services and see the output. 
