@@ -21,9 +21,12 @@ First of all we create a Dynamic Web Project called “StudentManagementSOAPServ
 
  
  ![Dynamic Web Project](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/1.png)
+ 
 
  ![project_name "StudentManagementSOAPService"](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/2.PNG)
-  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/3.PNG)
+ 
+ 
+ ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/3.PNG)
  
 • Then Implement the Student class and other related class.
 
@@ -51,30 +54,41 @@ Create a Web Service application.
 
 	Right click on the Project > New > Other > Web Service > Service implementation > Browse the StudentServiceImpl > Go to the configuration > Select Server Runtime > Select Apache Axis2 > Ok > Click Publish web service > Start Server > Finish 
 
-  ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/6.PNG) 
+
 
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/7.PNG)
 
+
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/8.PNG)
 
+
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/9.PNG)
+
+
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/10.PNG)
+
+
 ![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/11.PNG)
 
 
+![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/12.PNG)
+
+
+
 Test the services and see the output. 
-Right click on project > Run As > Run On Service > 
- 
+
+	Right click on project > Run As > Run On Service > 
+	 
+	![](https://github.com/Ranushklakmal/Sliit-MTIT-Assignment-02/blob/master/Screenshot/13.PNG)
+
 
 ▪	getAllStudent function.
  
 ▪	searchById function.
  
-
-
 ▪	insertStudent Function
- 
- 
+  
 ▪	deleteById Function
  
 	WSDL file is generated in the web service project as below 
